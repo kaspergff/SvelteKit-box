@@ -1,13 +1,4 @@
-<h1 align="center">Truffle and SvelteKit</h1> <br>
+# SvelteKit client
 
----
-
-# SvelteKite Truffle Box
-
-This box comes with everything you need to start using smart contracts from a [SvelteKit](https://kit.svelte.dev/) app. 
-
-
-
-## Installation
-
-First ensure you are in a new and empty directory.
+This is the frontend client for our dapp. It is built with SvelteKit and it uses the [svelte-web3](https://github.com/clbrge/svelte-web3#readme) library to connect to web3.
+For now this is the most easy solution if you want to connect a SvelteKit frontend to the blockchain.
