@@ -12,5 +12,8 @@
     "@sveltejs/kit": "next",
     "svelte": "^3.44.0"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "svelte-web3": "^2.3.3"
+  }
 }
