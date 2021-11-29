@@ -15,8 +15,6 @@ The goal of this project was to create a base for building an Ethereum dapp usin
 
 First ensure you are in a new and empty directory.
 
-## Installation
-
 1. Install Truffle globally.
     ```bash
     npm install -g truffle
